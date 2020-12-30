@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OBS로 온라인 행사 운영하기"
+title:  "네이버 클라우드 플랫폼의 Live Station과 OBS로 온라인 행사 운영하기"
 date:   2020-12-29 08:05:04 +0900
 categories: share
 ---
